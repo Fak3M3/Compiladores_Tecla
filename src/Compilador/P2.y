@@ -1,14 +1,5 @@
 //**********************************************************************************
 //P2.y
-//**********************************************************************************
-//**********************************************************************************
-//HERNANDEZ HERNANDEZ RUBEN
-//LIRA DÁVILA ALAN DAVID
-//RAMÍREZ GUTIERREZ ENRIQUE
-//OAXACA PÉREZ DAVID ARTURO
-//Curso: Compiladores 3CM15
-//JUNIO 2021
-//ESCOM-IPN
 // Archivo de yacc para poder generar la funcionalidad de Logos
 //**********************************************************************************
 %{
